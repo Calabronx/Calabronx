@@ -26,9 +26,8 @@
   ---
 
   ### :man_technologist: About Me :
-
     
-  I am a Full Stack Developer> 
+  Currently i' Full Stack Dev looking the horizon for more
 
 - :telescope: I’m working as a Software Developer actually in the web development industry, but games and graphics are what brougth me to programming at first.
 
