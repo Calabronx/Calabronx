@@ -2,38 +2,43 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/sebastian-calabro-86a17a166/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCVYZ8P_QgYLFwpn2vURUY5Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <!--<a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a><!-->
 </div>
 <div>
 <img src="https://komarev.com/ghpvc/?username=Calabronx&style=flat-square&color=blue" alt=""/>
 </div>
   
-### Hello, and welcome to my Github profile! 👋
+### Welcome Stranger! 👋
 
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlnZXNkeml4OXI5ZzZwaWk0dzIwYnVnZzAxd25scWVpMXh3NjRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYrhcl17YmhQzu0/giphy.gif" width="500">
   <div>
   <div align="left">
+    
   ---
 
   ### :man_technologist: About Me :
     
-  Currently i' Full Stack Dev looking the horizon for more
+  Full Stack Dev looking at the horizon for more
 
 - :telescope: I’m working as a Software Developer actually in the web development industry, but games and graphics are what brougth me to programming at first.
 
-- :seedling: Exploring and interesed mostly in backend and low level projects(games,engines,emulators and modding).
+- ⛰ Started my journey with java, wanting to know how games worked, to notice that my interest drove me to see how everything works.
+  
+- :seedling: My exploration and interest mostly is on backend and low level projects(games,engines,emulators and modding).
 
 - :zap: In my free time, i am learning software development and building whatever cruzes my mind.
+
+- :star: I have seen in my experience that learning really hard stuff, makes you a better programmer.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SebastianCalabro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-calabro-86a17a166/)
   </div>
