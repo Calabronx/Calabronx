@@ -1,8 +1,27 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div>
+<img src="https://komarev.com/ghpvc/?username=Calabronx&style=flat-square&color=blue" alt=""/>
+</div>
+  
 ### Hello, and welcome to my Github profile! 👋
 
+</div>
+
+
 Languages and Tools:
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/0a339125-1c3e-45b4-8be4-f3ea952b234a)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/49b60fe3-be49-45b2-afe8-b33f7cef4a97)
 
 ![image](https://github.com/Calabronx/Calabronx/assets/69681105/e4209714-1b46-4f33-9851-197a74c2b4b0)
 ![image](https://github.com/Calabronx/Calabronx/assets/69681105/f02a9f90-75be-4777-b07b-eaeca98b0d8a)
@@ -19,6 +38,7 @@ Languages and Tools:
 ![image](https://github.com/Calabronx/Calabronx/assets/69681105/5c04d5f4-48f0-4da8-bc36-67cb13d2cef1)
 
 ![image](https://github.com/Calabronx/Calabronx/assets/69681105/ee00c2f3-88a3-4768-b8f6-dda6f43fe41e) 
+
 
 
 <!--
