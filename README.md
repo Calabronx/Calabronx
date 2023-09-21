@@ -30,11 +30,11 @@
     
   I am a Full Stack Developer> 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Developer actually in the web development industry, but games and graphics are what brougth me to programming at first.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring and interesed mostly in backend and low level projects(games,engines,emulators and modding).
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, i am learning software development and building whatever cruzes my mind.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SebastianCalabro-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   </div>
