@@ -19,26 +19,57 @@
 ### Hello, and welcome to my Github profile! 👋
 
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlnZXNkeml4OXI5ZzZwaWk0dzIwYnVnZzAxd25scWVpMXh3NjRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYrhcl17YmhQzu0/giphy.gif" width="500">
+  <div>
+  <div align="left">
+  ---
+
+  ### :man_technologist: About Me :
+
+    
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SebastianCalabro-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  </div>
+    
+
+    
+  </div>
+</div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
-Languages and Tools:
-
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/e4209714-1b46-4f33-9851-197a74c2b4b0)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/f02a9f90-75be-4777-b07b-eaeca98b0d8a)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/6247a29d-dce2-4b3f-acfd-d909d8b9d4a6)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/718dece5-31a8-44ed-a068-1cdd9b4b0ae3)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/d040b680-4ad8-4dae-a011-7c1bbcfb6d58)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/4b3caee0-5217-4dde-a128-40ebb0dc63ff)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/7b6afa57-9a85-4081-adbd-64c5a1e339d4)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/92a9a183-3c0e-4ce9-b2e7-73a71b913e84)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/4397b1a0-ae1d-4c8d-9222-3a610eb7c5ec)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/4aec7143-e996-4ba2-a970-7569210a3a19)
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/2140e821-3fe5-40a7-a50d-5c16703076ae)
-
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/5c04d5f4-48f0-4da8-bc36-67cb13d2cef1)
-
-![image](https://github.com/Calabronx/Calabronx/assets/69681105/ee00c2f3-88a3-4768-b8f6-dda6f43fe41e) 
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL"  alt="OpenGL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="NPM" **alt="NPM" width="40" height="40"/>
+</div>
 
 
 <!--
