@@ -35,7 +35,7 @@
 
 - :zap: In my free time, i am learning software development and building whatever cruzes my mind.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SebastianCalabro-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SebastianCalabro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-calabro-86a17a166/)
   </div>
     
 
