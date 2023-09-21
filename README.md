@@ -20,11 +20,7 @@ Languages and Tools:
 
 ![image](https://github.com/Calabronx/Calabronx/assets/69681105/ee00c2f3-88a3-4768-b8f6-dda6f43fe41e) 
 
-img[src*="#thumbnail"] {
-   width:50px;![Uploading java-original.png…]()
 
-   height:50px;
-}
 <!--
 **Calabronx/Calabronx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
