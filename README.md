@@ -34,7 +34,7 @@
 
 - ⛰ Started my journey with java, wanting to know how games worked, to notice that my interest drove me to see how everything works.
   
-- :seedling: My exploration and interest mostly is on backend and low level projects(games,engines,emulators and modding).
+- :seedling: My exploration and interest mostly is on backend and low level projects(games,engines,emulators,restfull apps and modding).
 
 - :zap: In my free time, i am learning software development and building whatever cruzes my mind.
 
